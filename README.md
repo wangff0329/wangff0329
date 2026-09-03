@@ -44,13 +44,4 @@
 
 ---
 
-### 📊 GitHub 统计
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wangff0329&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangff0329&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
 ### 🏷️ 标签
